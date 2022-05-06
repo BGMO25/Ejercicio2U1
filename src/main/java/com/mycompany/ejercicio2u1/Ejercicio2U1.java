@@ -7,7 +7,7 @@ package com.mycompany.ejercicio2u1;
 
 /**
  *
- * @author USUARIO
+ * @author Byron Morocho. Boris Morocho
  */
 public class Ejercicio2U1 {
 
